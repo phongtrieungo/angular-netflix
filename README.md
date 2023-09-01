@@ -1,2 +1,9 @@
-# angular-netflix
-A clone version of Netflix using Angular, Tailwindcss, Prisma, MongoDB, NextAuth and Vercel
+# Netflix Clone
+
+- Stack is used
+-   Angular
+-   Tailwindcss
+-   Prisma
+-   MongoDB
+-   NextAuth
+-   Vercel
